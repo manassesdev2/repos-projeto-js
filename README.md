@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto de Introdução Web - JavaScript
 
 ## Enunciado
@@ -30,3 +31,7 @@ Recomendamos que caso não lembre como funciona o processo de entrega, clique [*
 
 Bom projeto para vocês!
 
+=======
+
+Projeto Intro Web JS
+>>>>>>> 6bb235aab56f4f3c37a0fd075c8dd18d1916a6ab

@@ -25,5 +25,4 @@ Este projeto será dividido em duas partes: JavaScript, e HTML+CSS. Por enquanto
 
 =======
 
-Projeto Intro Web JS
->>>>>>> 6bb235aab56f4f3c37a0fd075c8dd18d1916a6ab
+

@@ -1,4 +1,4 @@
-Link do site do projeto
+Link do site
 https://manassesdev2.github.io/repos-projeto-js/
 
 # Projeto de Introdução Web - JavaScript
